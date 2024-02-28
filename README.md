@@ -1,8 +1,28 @@
-# React + Vite
+# ReactAuthFirebaseApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React app implementing authentication using Firebase.
 
-Currently, two official plugins are available:
+## Features
+- User authentication with Firebase Authentication
+- You can login with multile and different pLatforms
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Technologies Used
+- React + Vite
+- Firebase Authentication
+- Css
+
+## Getting Started
+- Clone the repository
+- Install dependencies: `npm install`
+- Configure Firebase with your credentials
+- Run the app: `npm run dev`
+
+## Demo
+[Link to Live Demo](react-auth-firebase-app.vercel.app)
+
+## Contributions
+Contributions are welcome! Please feel free to open an issue or create a pull request.
+
+## License
+This project is licensed under the [@gaurav](LICENSE).
